@@ -1,0 +1,15 @@
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\bin\Debug\net7.0\Telefon rehber.exe
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\bin\Debug\net7.0\Telefon rehber.deps.json
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\bin\Debug\net7.0\Telefon rehber.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\bin\Debug\net7.0\Telefon rehber.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\bin\Debug\net7.0\Telefon rehber.pdb
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\refint\Telefon rehber.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.pdb
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\Telefon rehber.genruntimeconfig.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\Telefon rehber\obj\Debug\net7.0\ref\Telefon rehber.dll

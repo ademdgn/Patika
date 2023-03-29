@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Telefon rehber/1.0.0": {
+        "runtime": {
+          "Telefon rehber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telefon rehber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
