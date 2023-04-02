@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Algoritma2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("------HW1----")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Algoritma2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Algoritma2")]
+[assembly: System.Reflection.AssemblyProductAttribute("------HW1----")]
+[assembly: System.Reflection.AssemblyTitleAttribute("------HW1----")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
