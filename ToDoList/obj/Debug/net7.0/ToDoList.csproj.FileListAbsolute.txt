@@ -1,0 +1,15 @@
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\bin\Debug\net7.0\ToDoList.exe
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\bin\Debug\net7.0\ToDoList.deps.json
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\bin\Debug\net7.0\ToDoList.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\bin\Debug\net7.0\ToDoList.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\bin\Debug\net7.0\ToDoList.pdb
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\refint\ToDoList.dll
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.pdb
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ToDoList.genruntimeconfig.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\ToDoList\obj\Debug\net7.0\ref\ToDoList.dll

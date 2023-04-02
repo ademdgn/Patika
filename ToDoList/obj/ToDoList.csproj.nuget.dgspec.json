@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "c:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\MSI-NB\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\MSI-NB\\Desktop\\Github\\petmateswebsite\\Patika\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI-NB\\AppData\\Roaming\\NuGet\\NuGet.Config",
