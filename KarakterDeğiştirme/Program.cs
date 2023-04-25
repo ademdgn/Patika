@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public  class Karakter_Değiştirme
+ class Karakter_Değiştirme
     {
         public Karakter_Değiştirme()
         {
