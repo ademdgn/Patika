@@ -1,0 +1,5 @@
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\KarakterDeğiştirme\obj\Debug\net7.0\KarakterDeğiştirme.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\KarakterDeğiştirme\obj\Debug\net7.0\KarakterDeğiştirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\KarakterDeğiştirme\obj\Debug\net7.0\KarakterDeğiştirme.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\KarakterDeğiştirme\obj\Debug\net7.0\KarakterDeğiştirme.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\Github\petmateswebsite\Patika\KarakterDeğiştirme\obj\Debug\net7.0\KarakterDeğiştirme.csproj.CoreCompileInputs.cache
